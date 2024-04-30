@@ -1,0 +1,21 @@
+digraph ArvoreBin {
+node [shape=circle, style=filled, color=black, fillcolor="#9370DB"];
+edge [color=black];
+  10;
+  10 -> 6;
+  10 -> 12;
+  6;
+  6 -> 1;
+  6 -> 7;
+  1;
+  1 -> 2;
+  2;
+  2 -> 3;
+  3;
+  3 -> 5;
+  5;
+  7;
+  12;
+  12 -> 19;
+  19;
+}

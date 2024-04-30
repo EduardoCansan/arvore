@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="206pt" height="188pt" viewBox="0.00 0.00 206.00 188.00">
+<g id="graph0" class="graph" transform="translate(4,184) scale(1)" data-name="ArvoreBin">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-184 202,-184 202,4 -4,4" style=""/>
+<!-- 4 -->
+<g id="node1" class="node" pointer-events="visible" data-name="4">
+
+<ellipse fill="#9370db" stroke="black" cx="99" cy="-162" rx="18" ry="18" style=""/>
+<text text-anchor="middle" x="99" y="-157.8" font-family="Times,serif" font-size="14.00" style="">4</text>
+</g>
+<!-- 2 -->
+<g id="node2" class="node" pointer-events="visible" data-name="2">
+
+<ellipse fill="#9370db" stroke="black" cx="72" cy="-90" rx="18" ry="18" style=""/>
+<text text-anchor="middle" x="72" y="-85.8" font-family="Times,serif" font-size="14.00" style="">2</text>
+</g>
+<!-- 4&#45;&gt;2 -->
+<g id="edge1" class="edge" data-name="4-&gt;2">
+
+<path fill="none" stroke="black" d="M92.74,-144.76C89.64,-136.72 85.81,-126.81 82.3,-117.69" style=""/>
+<polygon fill="black" stroke="black" points="85.64,-116.63 78.77,-108.56 79.11,-119.15 85.64,-116.63" style=""/>
+</g>
+<!-- 6 -->
+<g id="node3" class="node" pointer-events="visible" data-name="6">
+
+<ellipse fill="#9370db" stroke="black" cx="126" cy="-90" rx="18" ry="18" style=""/>
+<text text-anchor="middle" x="126" y="-85.8" font-family="Times,serif" font-size="14.00" style="">6</text>
+</g>
+<!-- 4&#45;&gt;6 -->
+<g id="edge2" class="edge" data-name="4-&gt;6">
+
+<path fill="none" stroke="black" d="M105.26,-144.76C108.36,-136.72 112.19,-126.81 115.7,-117.69" style=""/>
+<polygon fill="black" stroke="black" points="118.89,-119.15 119.23,-108.56 112.36,-116.63 118.89,-119.15" style=""/>
+</g>
+<!-- 1 -->
+<g id="node4" class="node" pointer-events="visible" data-name="1">
+
+<ellipse fill="#9370db" stroke="black" cx="18" cy="-18" rx="18" ry="18" style=""/>
+<text text-anchor="middle" x="18" y="-13.8" font-family="Times,serif" font-size="14.00" style="">1</text>
+</g>
+<!-- 2&#45;&gt;1 -->
+<g id="edge3" class="edge" data-name="2-&gt;1">
+
+<path fill="none" stroke="black" d="M61.33,-75.17C54.01,-65.68 44.12,-52.86 35.64,-41.86" style=""/>
+<polygon fill="black" stroke="black" points="38.45,-39.78 29.57,-34 32.91,-44.06 38.45,-39.78" style=""/>
+</g>
+<!-- 3 -->
+<g id="node5" class="node" pointer-events="visible" data-name="3">
+
+<ellipse fill="#9370db" stroke="black" cx="72" cy="-18" rx="18" ry="18" style=""/>
+<text text-anchor="middle" x="72" y="-13.8" font-family="Times,serif" font-size="14.00" style="">3</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge4" class="edge" data-name="2-&gt;3">
+
+<path fill="none" stroke="black" d="M72,-71.7C72,-64.41 72,-55.73 72,-47.54" style=""/>
+<polygon fill="black" stroke="black" points="75.5,-47.62 72,-37.62 68.5,-47.62 75.5,-47.62" style=""/>
+</g>
+<!-- 5 -->
+<g id="node6" class="node" pointer-events="visible" data-name="5">
+
+<ellipse fill="#9370db" stroke="black" cx="126" cy="-18" rx="18" ry="18" style=""/>
+<text text-anchor="middle" x="126" y="-13.8" font-family="Times,serif" font-size="14.00" style="">5</text>
+</g>
+<!-- 6&#45;&gt;5 -->
+<g id="edge5" class="edge" data-name="6-&gt;5">
+
+<path fill="none" stroke="black" d="M126,-71.7C126,-64.41 126,-55.73 126,-47.54" style=""/>
+<polygon fill="black" stroke="black" points="129.5,-47.62 126,-37.62 122.5,-47.62 129.5,-47.62" style=""/>
+</g>
+<!-- 7 -->
+<g id="node7" class="node" pointer-events="visible" data-name="7">
+
+<ellipse fill="#9370db" stroke="black" cx="180" cy="-18" rx="18" ry="18" style=""/>
+<text text-anchor="middle" x="180" y="-13.8" font-family="Times,serif" font-size="14.00" style="">7</text>
+</g>
+<!-- 6&#45;&gt;7 -->
+<g id="edge6" class="edge" data-name="6-&gt;7">
+
+<path fill="none" stroke="black" d="M136.67,-75.17C143.99,-65.68 153.88,-52.86 162.36,-41.86" style=""/>
+<polygon fill="black" stroke="black" points="165.09,-44.06 168.43,-34 159.55,-39.78 165.09,-44.06" style=""/>
+</g>
+</g>
+</svg>
